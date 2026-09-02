@@ -1,0 +1,14 @@
+#area {
+position: relative;
+width: 1000px;
+height: 400px;
+margin: 30px auto;
+background-color: rgb(203, 203, 248);
+overflow: hidden;
+}
+
+.ball {
+border-radius: 50%;
+position: absolute;
+display: inline-block;
+}
